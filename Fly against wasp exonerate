@@ -1,3 +1,6 @@
+# get the Vespula genome 
+wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/905/340/365/GCA_905340365.1_iyVesGerm1.1/GCA_905340365.1_iyVesGerm1.1_genomic.fna.gz 
+
 #Scheule task, allocate RAM and time
 #$ -l tmem=4G
 #$ -l h_vmem=4G
